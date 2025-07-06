@@ -1,0 +1,8 @@
+
+# 🔐 Secrets
+.env
+
+# 🏗️ Node modules (auto install hote hain)
+node_modules/
+
+.vscode/
